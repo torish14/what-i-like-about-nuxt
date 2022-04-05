@@ -276,6 +276,6 @@ Nuxt 3 の優れた開発者体験を支える機能たち
 
 参考にさせていただいたサイト
 
-- [Nuxt 3 を今すぐオススメしたい 15 のポイント](https://zenn.dev/ytr0903/articles/d0a91f6180d34e)
-- [Nuxt 3 がパブリックベータ版になったので新機能の紹介や所感など](https://zenn.dev/miruoon_892/articles/e06b1c7533d754df8a8c)
-- [Nuxt 3 の新しい機能](https://zenn.dev/azukiazusa/articles/nuxt3-new-features)
+- [Nuxt 3 を今すぐオススメしたい 15 のポイント - Zenn](https://zenn.dev/ytr0903/articles/d0a91f6180d34e)
+- [Nuxt 3 がパブリックベータ版になったので新機能の紹介や所感など - Zenn](https://zenn.dev/miruoon_892/articles/e06b1c7533d754df8a8c)
+- [Nuxt 3 の新しい機能 - Zenn](https://zenn.dev/azukiazusa/articles/nuxt3-new-features)
