@@ -183,6 +183,8 @@ h1 {
 
 # 糖衣構文とは？
 
+プログラムの意味としては同じものをよりわかりやすい構文に書き換えたもの
+
 - 記述量が減って簡潔になる
 - props、emit を使うときに、純粋な TypeScript が使える
 - ランタイムのパフォーマンスが上がる
@@ -194,7 +196,7 @@ h1 {
 
 Vue 3 を使っていないひとはぜひ使いましょう！
 
-[【Vue.js 3.2】`<script setup>` 構文がすごくすごい](https://zenn.dev/azukiazusa/articles/676d88675e4e74)
+[【Vue.js 3.2】`<script setup>` 構文がすごくすごい - Zenn](https://zenn.dev/azukiazusa/articles/676d88675e4e74)
 
 ---
 
